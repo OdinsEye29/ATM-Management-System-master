@@ -21,10 +21,10 @@ Program Features
 Frames and Options
 LoginFrame
 
-login: Log in using Customer ID and PIN.
-register: Register a new customer account.
-Exit: Exit the program.
-RegisterFrame
+'login: Log in using Customer ID and PIN.
+'register: Register a new customer account.
+'Exit: Exit the program.
+'RegisterFrame
 
 accept: Create a new customer account with a chosen name and PIN.
 back: Return to the LoginFrame.
